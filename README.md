@@ -1,16 +1,16 @@
-### Hi there, I'm Ramil 👋
-
-### About Me
+# Hi there, I'm Ramil 👋
+____
+## About Me
 
 * 🏬 Almaty, KZ;
 * 📧 ramil.iolchu@gmail.com;
 * ❤️ Programming;
 * 🔭 I’m currently working as a specialist at SB Sberbank of Russia.
+____
+## **Check my favourite projects:**
 
-**Check my favourite projects:**
-
-* Film Library (Android);
-* Timer (Android);
+* Film Library [Android](https://github.com/ramapitecusment/film_library_android);
+* Timer [Android](https://github.com/ramapitecusment/timer_android);
 * IT-Blog [PHP](https://github.com/ramapitecusment/my_blog);
 * Doodle Search Engine [PHP](https://github.com/ramapitecusment/doodle);
 * WebPage Vulnarability Scanner [Django](https://github.com/ramapitecusment/python_vulnerability_scanner);
@@ -19,7 +19,7 @@
 * Backdoor [Python](https://github.com/ramapitecusment/backdoor_python_reverse);
 * NeuralNet [R, Data Science](https://github.com/ramapitecusment/student_academic_performance);
 * Job Automation [Python Selenium](https://github.com/ramapitecusment/selenium_education) P.S. (Real job automation script is not uploaded, because it violates NDA).
-
+____
 <!--
 **ramapitecusment/ramapitecusment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
