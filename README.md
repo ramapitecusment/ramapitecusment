@@ -1,5 +1,12 @@
 ### Hi there, I'm Ramil 👋
 
+### About Me
+
+* 🏬 Almaty, KZ;
+* 📧 ramil.iolchu@gmail.com;
+* ❤️ Programming;
+* 🔭 I’m currently working as a specialist at SB Sberbank of Russia.
+
 **Check my favourite projects:**
 
 * Film Library (Android);
@@ -12,13 +19,6 @@
 * Backdoor [Python](https://github.com/ramapitecusment/backdoor_python_reverse);
 * NeuralNet [R, Data Science](https://github.com/ramapitecusment/student_academic_performance);
 * Job Automation [Python Selenium](https://github.com/ramapitecusment/selenium_education) P.S. (Real job automation script is not uploaded, because it violates NDA).
-
-#### About Me
-
-* 🏬 Almaty, KZ;
-* 📧 ramil.iolchu@gmail.com;
-* ❤️ Programming;
-* 🔭 I’m currently working as a specialist at SB Sberbank of Russia.
 
 <!--
 **ramapitecusment/ramapitecusment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
