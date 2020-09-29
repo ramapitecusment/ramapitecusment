@@ -4,14 +4,14 @@
 
 * Film Library (Android);
 * Timer (Android);
-* IT-Blog [PHP] (https://github.com/ramapitecusment/my_blog);
-* Doodle Search Engine [PHP] (https://github.com/ramapitecusment/doodle);
-* WebPage Vulnarability Scanner [Django] (https://github.com/ramapitecusment/python_vulnerability_scanner);
-* Chatbot AI [Python] (https://github.com/ramapitecusment/Ramilchat);
-* Keylogger [Python] (https://github.com/ramapitecusment/python_keylogger);
-* Backdoor [Python] (https://github.com/ramapitecusment/backdoor_python_reverse);
-* NeuralNet [R, Data Science] (https://github.com/ramapitecusment/student_academic_performance);
-* Job Automation [Python Selenium] (https://github.com/ramapitecusment/selenium_education) P.S. (Real job automation script is not uploaded, because it violates NDA).
+* IT-Blog [PHP](https://github.com/ramapitecusment/my_blog);
+* Doodle Search Engine [PHP](https://github.com/ramapitecusment/doodle);
+* WebPage Vulnarability Scanner [Django](https://github.com/ramapitecusment/python_vulnerability_scanner);
+* Chatbot AI [Python](https://github.com/ramapitecusment/Ramilchat);
+* Keylogger [Python](https://github.com/ramapitecusment/python_keylogger);
+* Backdoor [Python](https://github.com/ramapitecusment/backdoor_python_reverse);
+* NeuralNet [R, Data Science](https://github.com/ramapitecusment/student_academic_performance);
+* Job Automation [Python Selenium](https://github.com/ramapitecusment/selenium_education) P.S. (Real job automation script is not uploaded, because it violates NDA).
 
 #### About Me
 
