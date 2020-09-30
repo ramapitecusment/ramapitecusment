@@ -14,7 +14,7 @@ ____
 * IT-Blog [PHP](https://github.com/ramapitecusment/my_blog);
 * Doodle Search Engine [PHP](https://github.com/ramapitecusment/doodle);
 * Train schedule Database [C#](https://github.com/ramapitecusment/train_schedule_db);
-* WebPage Vulnarability Scanner [Django](https://github.com/ramapitecusment/python_vulnerability_scanner);
+* WebPage Vulnerability Scanner [Django](https://github.com/ramapitecusment/python_vulnerability_scanner);
 * Wit Facebook Chatbot AI [Python](https://github.com/ramapitecusment/Ramilchat);
 * Keylogger [Python](https://github.com/ramapitecusment/python_keylogger);
 * Backdoor [Python](https://github.com/ramapitecusment/backdoor_python_reverse);
