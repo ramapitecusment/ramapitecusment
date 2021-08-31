@@ -5,7 +5,7 @@ ____
 * 🏬 Almaty, KZ;
 * 📧 ramil.iolchu@gmail.com;
 * ❤️ Programming;
-* 🔭 I’m currently working as a specialist at SB Sberbank of Russia.
+* 🔭 I’m currently working as a Android Developer at Arview.
 ____
 ## **Check my favourite projects:**
 
