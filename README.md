@@ -9,7 +9,7 @@ ____
 ____
 ## **Check my favourite projects:**
 
-* News App RestAPI [Android](https://github.com/ramapitecusment/news_api_android);
+* News App RestAPI [Android](https://github.com/ramapitecusment/NewsAPIv1);
 * Film Library [Android](https://github.com/ramapitecusment/film_library_android);
 * Timer [Android](https://github.com/ramapitecusment/timer_android);
 * IT-Blog [PHP](https://github.com/ramapitecusment/my_blog);
