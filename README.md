@@ -10,6 +10,7 @@ ____
 ## **Check my favourite projects:**
 
 * News App RestAPI [Android](https://github.com/ramapitecusment/NewsAPIv1);
+* FavDish [Android](https://github.com/ramapitecusment/FavDish);
 * Film Library [Android](https://github.com/ramapitecusment/film_library_android);
 * Timer [Android](https://github.com/ramapitecusment/timer_android);
 * IT-Blog [PHP](https://github.com/ramapitecusment/my_blog);
